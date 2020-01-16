@@ -1,9 +1,9 @@
 ### 一、小论文成稿 
 #### 日常阅读4篇小论文整理+笔记
 ##### IEEE S&P 2019
-Towards Understanding Limitations of Pixel Discretization Against Adversarial Attacks
-PRADA: Protecting Against DNN Model Stealing Attacks
-TraffickStop: Detecting and Measuring Illicit Traffic Monetization Through Large-scale DNS Analysis
+-- Towards Understanding Limitations of Pixel Discretization Against Adversarial Attacks
+-- PRADA: Protecting Against DNN Model Stealing Attacks
+-- TraffickStop: Detecting and Measuring Illicit Traffic Monetization Through Large-scale DNS Analysis
 Using Guessed Passwords to Thwart Online Guessing
 Private votes on untrusted platforms: models, attacks and provable scheme
 Mitch: A Machine Learning Approach to the Black-Box Detection of CSRF Vulnerabilities
